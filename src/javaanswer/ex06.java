@@ -20,3 +20,5 @@ public class ex06 {
 	}
 
 }
+//print문이 안에 있으면 break걸린 이후의 반복문print는 실행되지 않음
+//print문이 밖에 있으면 모든 조건이 끝나고 실행됨
